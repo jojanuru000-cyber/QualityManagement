@@ -6,8 +6,8 @@ Este documento describe los pasos para traer tu proyecto de Overleaf (**QUALITY 
 
 ## Estado Actual
 - [x] **Git instalado en el sistema:** Versión `2.56.0` configurada en la variable de entorno `PATH`.
-- [ ] **Archivos de Overleaf descargados.**
-- [ ] **Repositorio de GitHub creado y vinculado.**
+- [x] **Archivos de Overleaf descargados y descomprimidos.**
+- [x] **Repositorio de GitHub creado, vinculado y sincronizado:** [jojanuru000-cyber/QualityManagement](https://github.com/jojanuru000-cyber/QualityManagement).
 
 ---
 

@@ -2,6 +2,12 @@
 QUALITY_MANAGEMENT___PROJECT_PART_3.zip
 *.zip
 
+# Archivos de configuración local y credenciales
+.env
+.env.local
+config.local.json
+*.token
+
 # Archivos auxiliares de compilación LaTeX
 *.aux
 *.bbl
